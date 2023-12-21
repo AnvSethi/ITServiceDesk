@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Requst Item Home">bd0370214726611007046285d36d4378</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 14:21:41</sys_created_on>
+        <sys_id>964474614726611007046285d36d4333</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Requst Item Home</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_964474614726611007046285d36d4333</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:21:41</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</application>
+        <file_path/>
+        <instance_id>b7d409a8db4c515807072f17d4961912</instance_id>
+        <instance_name>dev128532</instance_name>
+        <name>sc_cat_item_catalog_964474614726611007046285d36d4333</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Requst Item Home">bd0370214726611007046285d36d4378</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-01 14:21:41</sys_created_on><sys_id>964474614726611007046285d36d4333</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Requst Item Home</sys_name><sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package><sys_policy/><sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope><sys_update_name>sc_cat_item_catalog_964474614726611007046285d36d4333</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-01 14:21:41</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>544739588</payload_hash>
+        <record_name>Service Catalog.Requst Item Home</record_name>
+        <reverted_from/>
+        <source>7c3fefdd47ee211007046285d36d43ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 14:21:41</sys_created_on>
+        <sys_id>124474614726611007046285d36d4336</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187d7b0cda50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:21:41</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>96447461752661100a6bec5c8a05ba35</update_guid>
+        <update_guid_history>96447461752661100a6bec5c8a05ba35:544739588</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Requst Item Home">b164f4614726611007046285d36d437c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 14:22:11</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>b008f0df955144fcb7dccdc52c6c1790</sys_id>
+        <sys_metadata>964474614726611007046285d36d4333</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Requst Item Home</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_parent display_value="Request Item">bd0370214726611007046285d36d4378</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_scope_delete display_value="">2e1a994bec0c408089316c3fe42f1900</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_964474614726611007046285d36d4333</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_964474614726611007046285d36d4333">124474614726611007046285d36d4336</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:22:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

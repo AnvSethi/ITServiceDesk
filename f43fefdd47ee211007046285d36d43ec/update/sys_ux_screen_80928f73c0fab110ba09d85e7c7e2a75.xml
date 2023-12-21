@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="IT Service Desk Config">bf828f7347fab11007046285d36d4349</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Search Page">8c928f73d2fab110db18b0d51dd67796</macroponent>
+        <macroponent_config>{
+  "searchContextConfigId" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "searchTerm" : {
+    "type" : "JSON_LITERAL",
+    "value" : ""
+  },
+  "label" : {
+    "type" : "TRANSLATION_LITERAL",
+    "value" : {
+      "code" : null,
+      "message" : "",
+      "comment" : ""
+    }
+  },
+  "bare" : {
+    "type" : "JSON_LITERAL",
+    "value" : true
+  },
+  "scrollable" : {
+    "type" : "JSON_LITERAL",
+    "value" : "none"
+  },
+  "headerLevel" : {
+    "type" : "JSON_LITERAL",
+    "value" : "1"
+  },
+  "headingOnlyVisibleToScreenReaders" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "interceptNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  },
+  "propagateNotifications" : {
+    "type" : "JSON_LITERAL",
+    "value" : false
+  }
+}</macroponent_config>
+        <name>Search Page Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Search Page">80928f73eefab110dde805684386b499</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-06 06:56:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>80928f73c0fab110ba09d85e7c7e2a75</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search Page Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sys_ux_screen_80928f73c0fab110ba09d85e7c7e2a75</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-06 06:56:29</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=80928f73c0fab110ba09d85e7c7e2a75"/>
+</record_update>

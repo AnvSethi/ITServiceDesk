@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_theme_m2m_asset">
+    <sys_ux_theme_m2m_asset action="INSERT_OR_UPDATE">
+        <asset display_value="now-logo-dark">0c928f7345fab110a52b261b40285574</asset>
+        <properties>{&#13;
+"position": "header_logo"&#13;
+}</properties>
+        <sys_class_name>sys_ux_theme_m2m_asset</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-06 06:56:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>48928f73f0fab11004e3e193a824e174</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sys_ux_theme_m2m_asset_48928f73f0fab11004e3e193a824e174</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-06 06:56:30</sys_updated_on>
+        <theme display_value="Light Theme">44928f7343fab110b97a4c56264a1fac</theme>
+    </sys_ux_theme_m2m_asset>
+</record_update>

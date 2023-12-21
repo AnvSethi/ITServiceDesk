@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>custom_portal_approval_x_1047617_it_ser_0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-05-01 14:53:09</sys_created_on>
+        <sys_id>7a7b70698226611092b767d0e964fd12</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom portal (x_1047617_it_ser_0)</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sys_ui_view_7a7b70698226611092b767d0e964fd12</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:53:09</sys_updated_on>
+        <title>Custom portal (x_1047617_it_ser_0)</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

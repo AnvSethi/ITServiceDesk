@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="b67b7069562661103d3fc7abe0acbc12" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1047617_it_ser_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-05-01 14:53:07</sys_created_on>
+            <sys_id>fa7b70697226611075a37a04db1e2b12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="7a7b70698226611092b767d0e964fd12">b67b7069562661103d3fc7abe0acbc12</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-05-01 14:53:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-05-01 14:53:07</sys_created_on>
+            <sys_id>7e7b70691626611002198ba2d716a812</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="7a7b70698226611092b767d0e964fd12">b67b7069562661103d3fc7abe0acbc12</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-05-01 14:53:07</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-05-01 14:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b67b7069562661103d3fc7abe0acbc12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+            <sys_update_name>sys_ui_section_b67b7069562661103d3fc7abe0acbc12</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-05-01 14:53:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_1047617_it_ser_0)" name="custom_portal_approval_x_1047617_it_ser_0">7a7b70698226611092b767d0e964fd12</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</application>
+        <file_path/>
+        <instance_id>b7d409a8db4c515807072f17d4961912</instance_id>
+        <instance_name>dev128532</instance_name>
+        <name>sys_ui_section_b67b7069562661103d3fc7abe0acbc12</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="b67b7069562661103d3fc7abe0acbc12" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1047617_it_ser_0"><sys_ui_element action="INSERT_OR_UPDATE"><element>comments</element><position>0</position><sys_created_by>system</sys_created_by><sys_created_on>2023-05-01 14:53:07</sys_created_on><sys_id>fa7b70697226611075a37a04db1e2b12</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="7a7b70698226611092b767d0e964fd12">b67b7069562661103d3fc7abe0acbc12</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-05-01 14:53:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>sysapproval</element><position>1</position><sys_created_by>system</sys_created_by><sys_created_on>2023-05-01 14:53:07</sys_created_on><sys_id>7e7b70691626611002198ba2d716a812</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="7a7b70698226611092b767d0e964fd12">b67b7069562661103d3fc7abe0acbc12</sys_ui_section><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-05-01 14:53:07</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sysapproval_approver</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-05-01 14:53:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b67b7069562661103d3fc7abe0acbc12</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sysapproval_approver</sys_name><sys_overrides/><sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package><sys_policy/><sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope><sys_update_name>sys_ui_section_b67b7069562661103d3fc7abe0acbc12</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-05-01 14:53:07</sys_updated_on><sys_user/><title>false</title><view display_value="Custom portal (x_1047617_it_ser_0)" name="custom_portal_approval_x_1047617_it_ser_0">7a7b70698226611092b767d0e964fd12</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-576030000</payload_hash>
+        <record_name>Approval</record_name>
+        <reverted_from/>
+        <source>c01de5124712211007046285d36d43a1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-04-21 16:09:29</sys_created_on>
+        <sys_id>721dfca94726611007046285d36d433b</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>187a493e6a80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Form Layout</type>
+        <update_guid>321dfca9f426611067455cdb3b07d13b</update_guid>
+        <update_guid_history>321dfca9f426611067455cdb3b07d13b:-576030000</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 15:00:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1c69169ea7724e70a43440e964c0a390</sys_id>
+        <sys_metadata>b67b7069562661103d3fc7abe0acbc12</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysapproval_approver</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_parent display_value="Sysapproval Approver">3e5b8b82c59021108c8b506e733c4c18</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_scope_delete display_value="">2e1a994bec0c408089316c3fe42f1900</sys_scope_delete>
+        <sys_update_name>sys_ui_section_b67b7069562661103d3fc7abe0acbc12</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_b67b7069562661103d3fc7abe0acbc12">721dfca94726611007046285d36d433b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 15:00:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

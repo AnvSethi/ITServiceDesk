@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_menu_actions</name>
+        <page display_value="IT Service Desk">bb828f7347fab11007046285d36d4349</page>
+        <required_translations>[{"message":"Report issue","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-06 06:56:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c8928f73fcfab110d4b4da5e44c9c87b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_menu_actions</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sys_ux_page_property_c8928f73fcfab110d4b4da5e44c9c87b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-06 06:56:31</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1047617_it_ser_0.bb828f7347fab11007046285d36d4349.root.chrome_menu_actions</unique_name>
+        <value>{&#13;
+    "label": {"translatable":true, "message":"Report issue"},&#13;
+    "value": {&#13;
+  		"route":"catalog",&#13;
+        "reload":true,&#13;
+       	"fields":{&#13;
+                   "sysId": "3f1dd0320a0a0b99000a53f7604a2ef9"&#13;
+		}&#13;
+	}&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=c8928f73fcfab110d4b4da5e44c9c87b"/>
+</record_update>

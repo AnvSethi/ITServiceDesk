@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>CONTENT_UPDATED_RELAY_44928f734ffab110133fb7d71383c4a2</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Content Updated Relay</label>
+        <props>[{"name":"params","label":"Optionals Parameters","fieldType":"json","valueType":"string"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-06 06:56:30</sys_created_on>
+        <sys_id>cc928f7353fab11092abba2a16a3bf80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Content Updated Relay</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sys_ux_event_cc928f7353fab11092abba2a16a3bf80</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-06 06:56:30</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=cc928f7353fab11092abba2a16a3bf80"/>
+</record_update>

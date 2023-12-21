@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>7a7b30694726611007046285d36d43e8</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>it-service-desk</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-05-01 14:53:10</sys_created_on>
+        <sys_id>b27b70697b2661107edf5a78c14cef04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Service Desk</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sys_ux_page_registry_b27b70697b2661107edf5a78c14cef04</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:53:10</sys_updated_on>
+        <title>IT Service Desk</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</application>
+        <file_path/>
+        <instance_id>b7d409a8db4c515807072f17d4961912</instance_id>
+        <instance_name>dev128532</instance_name>
+        <name>sys_ux_page_registry_b27b70697b2661107edf5a78c14cef04</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>7a7b30694726611007046285d36d43e8</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>it-service-desk</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-05-01 14:53:10</sys_created_on><sys_id>b27b70697b2661107edf5a78c14cef04</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IT Service Desk</sys_name><sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package><sys_policy/><sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope><sys_update_name>sys_ux_page_registry_b27b70697b2661107edf5a78c14cef04</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-05-01 14:53:10</sys_updated_on><title>IT Service Desk</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1896476160</payload_hash>
+        <record_name>IT Service Desk</record_name>
+        <reverted_from/>
+        <source>c01de5124712211007046285d36d43a1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-04-21 16:09:29</sys_created_on>
+        <sys_id>c1acfc694726611007046285d36d4316</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>187a493e6a80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>81acfc6968266110d6a8e2cb8bb08516</update_guid>
+        <update_guid_history>81acfc6968266110d6a8e2cb8bb08516:-1896476160</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 14:58:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>4945677f6faa4ccda323a90422ccb729</sys_id>
+        <sys_metadata>b27b70697b2661107edf5a78c14cef04</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Service Desk</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_scope_delete display_value="">2e1a994bec0c408089316c3fe42f1900</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_b27b70697b2661107edf5a78c14cef04</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_b27b70697b2661107edf5a78c14cef04">c1acfc694726611007046285d36d4316</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:58:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

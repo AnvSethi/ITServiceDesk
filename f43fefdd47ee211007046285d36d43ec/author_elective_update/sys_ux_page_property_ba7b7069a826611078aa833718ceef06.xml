@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">b27b70697b2661107edf5a78c14cef04</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Login">367b7069cf2661104917adbb03a70f10</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-05-01 14:53:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>ba7b7069a826611078aa833718ceef06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sys_ux_page_property_ba7b7069a826611078aa833718ceef06</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:53:09</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1047617_it_ser_0.b27b70697b2661107edf5a78c14cef04.route.chrome_header.367b7069cf2661104917adbb03a70f10</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</application>
+        <file_path/>
+        <instance_id>b7d409a8db4c515807072f17d4961912</instance_id>
+        <instance_name>dev128532</instance_name>
+        <name>sys_ux_page_property_ba7b7069a826611078aa833718ceef06</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">b27b70697b2661107edf5a78c14cef04</page><required_translations>[]</required_translations><route display_value="Login">367b7069cf2661104917adbb03a70f10</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-05-01 14:53:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>ba7b7069a826611078aa833718ceef06</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package><sys_policy/><sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope><sys_update_name>sys_ux_page_property_ba7b7069a826611078aa833718ceef06</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-05-01 14:53:09</sys_updated_on><type>json</type><unique_name>x_1047617_it_ser_0.b27b70697b2661107edf5a78c14cef04.route.chrome_header.367b7069cf2661104917adbb03a70f10</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1467526765</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>c01de5124712211007046285d36d43a1</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-04-21 16:09:29</sys_created_on>
+        <sys_id>59ac78a94726611007046285d36d4328</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>187a493e6a80000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>19ac78a934266110acd4df393a889928</update_guid>
+        <update_guid_history>19ac78a934266110acd4df393a889928:1467526765</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 14:58:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>117cb952a6ad46f1b4764eae4d161829</sys_id>
+        <sys_metadata>ba7b7069a826611078aa833718ceef06</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_scope_delete display_value="">2e1a994bec0c408089316c3fe42f1900</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_ba7b7069a826611078aa833718ceef06</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_ba7b7069a826611078aa833718ceef06">59ac78a94726611007046285d36d4328</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:58:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

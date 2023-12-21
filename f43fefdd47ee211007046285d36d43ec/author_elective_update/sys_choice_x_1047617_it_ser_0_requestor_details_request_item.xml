@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="request_item" table="x_1047617_it_ser_0_requestor_details" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>request_item</element>
+            <name>x_1047617_it_ser_0_requestor_details</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 09:42:47</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>request_item</sys_name>
+            <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+            <sys_update_name>sys_choice_x_1047617_it_ser_0_requestor_details_request_item</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 09:42:47</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_item</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laptop</label>
+            <language>en</language>
+            <name>x_1047617_it_ser_0_requestor_details</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 09:42:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 09:42:47</sys_updated_on>
+            <value>laptop</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_item</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mouse</label>
+            <language>en</language>
+            <name>x_1047617_it_ser_0_requestor_details</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 09:42:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 09:42:47</sys_updated_on>
+            <value>mouse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_item</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adapter</label>
+            <language>en</language>
+            <name>x_1047617_it_ser_0_requestor_details</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 09:42:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 09:42:47</sys_updated_on>
+            <value>adapter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_item</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>LAN Cable</label>
+            <language>en</language>
+            <name>x_1047617_it_ser_0_requestor_details</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 09:42:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 09:42:47</sys_updated_on>
+            <value>lan_cable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_item</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Router</label>
+            <language>en</language>
+            <name>x_1047617_it_ser_0_requestor_details</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 09:42:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 09:42:47</sys_updated_on>
+            <value>router</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_item</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>USB Hub</label>
+            <language>en</language>
+            <name>x_1047617_it_ser_0_requestor_details</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 09:42:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 09:42:47</sys_updated_on>
+            <value>usb_hub</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_item</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HDMI Cable</label>
+            <language>en</language>
+            <name>x_1047617_it_ser_0_requestor_details</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-01 09:42:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-01 09:42:47</sys_updated_on>
+            <value>hdmi_cable</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

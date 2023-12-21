@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Requst Item Home">bd0370214726611007046285d36d4378</sc_cat_item>
+        <sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 14:19:52</sys_created_on>
+        <sys_id>bfd3fc214726611007046285d36d433f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.Requst Item Home</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sc_cat_item_category_bfd3fc214726611007046285d36d433f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:19:52</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</application>
+        <file_path/>
+        <instance_id>b7d409a8db4c515807072f17d4961912</instance_id>
+        <instance_name>dev128532</instance_name>
+        <name>sc_cat_item_category_bfd3fc214726611007046285d36d433f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Requst Item Home">bd0370214726611007046285d36d4378</sc_cat_item><sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-01 14:19:52</sys_created_on><sys_id>bfd3fc214726611007046285d36d433f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Hardware.Requst Item Home</sys_name><sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package><sys_policy/><sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope><sys_update_name>sc_cat_item_category_bfd3fc214726611007046285d36d433f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-01 14:19:52</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1019778460</payload_hash>
+        <record_name>Hardware.Requst Item Home</record_name>
+        <reverted_from/>
+        <source>7c3fefdd47ee211007046285d36d43ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 14:19:52</sys_created_on>
+        <sys_id>73d3fc214726611007046285d36d4344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187d7af253f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:19:52</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>f7d3fc216d2661103953b64f81202043</update_guid>
+        <update_guid_history>f7d3fc216d2661103953b64f81202043:1019778460</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Hardware.Requst Item Home">664474614726611007046285d36d433f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 14:21:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>8f435358aa0b4b44991afed21d673c10</sys_id>
+        <sys_metadata>bfd3fc214726611007046285d36d433f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.Requst Item Home</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_scope_delete display_value="">2e1a994bec0c408089316c3fe42f1900</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_bfd3fc214726611007046285d36d433f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_bfd3fc214726611007046285d36d433f">73d3fc214726611007046285d36d4344</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:21:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

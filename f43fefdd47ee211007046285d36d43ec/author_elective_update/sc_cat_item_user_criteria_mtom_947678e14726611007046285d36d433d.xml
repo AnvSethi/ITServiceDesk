@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Requst Item Home">bd0370214726611007046285d36d4378</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 14:31:06</sys_created_on>
+        <sys_id>947678e14726611007046285d36d433d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requst Item Home.Any User</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_947678e14726611007046285d36d433d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:31:06</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</application>
+        <file_path/>
+        <instance_id>b7d409a8db4c515807072f17d4961912</instance_id>
+        <instance_name>dev128532</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_947678e14726611007046285d36d433d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Requst Item Home">bd0370214726611007046285d36d4378</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-01 14:31:06</sys_created_on><sys_id>947678e14726611007046285d36d433d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Requst Item Home.Any User</sys_name><sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package><sys_policy/><sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_947678e14726611007046285d36d433d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-01 14:31:06</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>51776151</payload_hash>
+        <record_name>Requst Item Home.Any User</record_name>
+        <reverted_from/>
+        <source>7c3fefdd47ee211007046285d36d43ee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 14:31:06</sys_created_on>
+        <sys_id>507678e14726611007046285d36d4340</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187d7b96dd30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:31:06</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>d47678e187266110ce8b8a8885eda13f</update_guid>
+        <update_guid_history>d47678e187266110ce8b8a8885eda13f:51776151</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Requst Item Home.Any User">bfe670254726611007046285d36d4303</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-01 14:33:14</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>10fe911e65124dec8374841e03dd74e1</sys_id>
+        <sys_metadata>947678e14726611007046285d36d433d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requst Item Home.Any User</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_scope_delete display_value="">2e1a994bec0c408089316c3fe42f1900</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_947678e14726611007046285d36d433d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_947678e14726611007046285d36d433d">507678e14726611007046285d36d4340</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-01 14:33:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

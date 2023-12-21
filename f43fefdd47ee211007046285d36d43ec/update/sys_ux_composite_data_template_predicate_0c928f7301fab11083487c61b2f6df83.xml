@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sc_2_sc">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>related_sc_cat_item.category.title,related_sc_cat_item.picture,related_sc_cat_item.name,related_sc_cat_item.price,related_sc_cat_item.short_description,related_sc_cat_item.recurring_price,related_sc_cat_item.recurring_frequency</field_list>
+        <name>Custom portal - Related items predicate</name>
+        <order/>
+        <predicate_bundle display_value="Custom portal - Related items">48928f7343fab110d38053dbc6480a86</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-06 06:56:30</sys_created_on>
+        <sys_id>0c928f7301fab11083487c61b2f6df83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom portal - Related items predicate</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_0c928f7301fab11083487c61b2f6df83</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-06 06:56:30</sys_updated_on>
+        <table>sc_2_sc</table>
+        <ux_template display_value="Custom Portal Catalog item page - Related items template">04928f7360fab110ab3cf1b85425a485</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

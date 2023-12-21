@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">0c928f7380fab110f0372388928786ab</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-06 06:56:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cc928f7335fab110284532cba80cefab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>m2m_app_config_theme_cc928f7335fab110284532cba80cefab</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-06 06:56:29</sys_updated_on>
+        <theme display_value="Light Theme">44928f7343fab110b97a4c56264a1fac</theme>
+        <ux_app_configuration display_value="IT Service Desk Config">bf828f7347fab11007046285d36d4349</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

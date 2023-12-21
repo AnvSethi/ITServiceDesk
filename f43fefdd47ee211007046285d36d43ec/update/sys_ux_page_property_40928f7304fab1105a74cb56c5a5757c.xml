@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>enable_login_modal</name>
+        <page display_value="IT Service Desk">bb828f7347fab11007046285d36d4349</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-06 06:56:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>40928f7304fab1105a74cb56c5a5757c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>enable_login_modal</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_update_name>sys_ux_page_property_40928f7304fab1105a74cb56c5a5757c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-06 06:56:29</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1047617_it_ser_0.bb828f7347fab11007046285d36d4349.root.enable_login_modal</unique_name>
+        <value>{&#13;
+	"enabled":false&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=40928f7304fab1105a74cb56c5a5757c"/>
+</record_update>

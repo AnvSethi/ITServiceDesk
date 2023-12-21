@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-12-06 06:56:36</sys_created_on>
+        <sys_id>ca9243b347fab11007046285d36d43ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.1047617.it-service-desk.*.x_1047617_it_ser_0.admin</sys_name>
+        <sys_package display_value="IT Service Desk" source="x_1047617_it_ser_0">f43fefdd47ee211007046285d36d43ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Service Desk">f43fefdd47ee211007046285d36d43ec</sys_scope>
+        <sys_security_acl display_value="x.1047617.it-service-desk.*">3b828f7347fab11007046285d36d434a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ca9243b347fab11007046285d36d43ea</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-12-06 06:56:36</sys_updated_on>
+        <sys_user_role display_value="x_1047617_it_ser_0.admin" name="x_1047617_it_ser_0.admin">303fefdd47ee211007046285d36d43f3</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
